@@ -4,7 +4,6 @@ Flask-CORS
 requests
 transformers
 torch
-safetensors
 huggingface-hub
 tokenizers
 regex
