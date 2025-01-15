@@ -3,4 +3,3 @@ gunicorn
 Flask-CORS
 requests
 transformers
-torch
