@@ -9,7 +9,6 @@ huggingface-hub
 tokenizers
 regex
 filelock
-numpy
 tqdm
 pyyaml
 typing_extensions
